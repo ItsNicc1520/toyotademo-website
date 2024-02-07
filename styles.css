@@ -371,7 +371,7 @@
 		width: 45%;
 		height: auto;
 		opacity: 0; /* Initially hidden */
-		animation: moveMK5Supra 15s ease forwards; /* Apply the animation */
+		animation: moveMK5Supra 10s ease forwards; /* Apply the animation */
 	}
 
 	.new-background3 {
